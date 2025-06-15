@@ -1,9 +1,11 @@
 # shreya-27
     
-    ![image](https://github.com/user-attachments/assets/4b8b2fb7-3e68-45e3-8a1c-405f8961d248)
+![coding](https://github.com/user-attachments/assets/41daa0da-3f70-47ef-83a7-08ea7cf9ce86)
 
+CODE LIKE POETRY. QUIET, CLEAN, DEEP. ✨💻🖋️
 
 👋 About Me
+
 Hi! I'm Shreya , a passionate and driven technologist with a love for building meaningful, user-focused solutions. I thrive at the intersection of innovation, data, and community. My mission? To create tech that empowers and inspires.
 
 🚀 What Drives Me
@@ -56,8 +58,10 @@ I'm always open to building something cool together! Hit me up for:
 Let’s connect and create something amazing:
 
 📧 Email: shreyaburra18@gmail.com 
-💼 Shreya-LinkedIn(https://www.linkedin.com/in/shreya-b-27521734a/).
-🧑‍💻 shreya /GitHub (https://github.com/shreyaB7134).
+
+💼 Shreya-LinkedIn(https://www.linkedin.com/in/shreya-b-27521734a/)
+
+🧑‍💻 shreya /GitHub (https://github.com/shreyaB7134)
 
 
 
