@@ -1,6 +1,7 @@
 # shreya-27
-    ![Image](https://github.com/user-attachments/assets/41daa0da-3f70-47ef-83a7-08ea7cf9ce86)
     
+    ![image](https://github.com/user-attachments/assets/4b8b2fb7-3e68-45e3-8a1c-405f8961d248)
+
 
 👋 About Me
 Hi! I'm Shreya , a passionate and driven technologist with a love for building meaningful, user-focused solutions. I thrive at the intersection of innovation, data, and community. My mission? To create tech that empowers and inspires.
