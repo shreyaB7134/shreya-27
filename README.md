@@ -37,17 +37,8 @@ Hi! I'm Shreya , a passionate and driven technologist with a love for building m
 * Database Management Systems (DBMS)
 * Operating Systems (OS)
 * Computer Networks
+	
 
-🌱 Soft Skills & Mindset
-
- I believe technology is powered just as much by people as it is by code. I bring:	
- 
-. Effective Communication
-. Team Collaboration
-. Adaptability
-. Leadership
-. Problem-Solving
-. A Strong Work Ethic
 
 🤝 Let's Collaborate!
            I'm always open to building something cool together! Hit me up for:
