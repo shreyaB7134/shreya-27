@@ -2,7 +2,7 @@
     
 ![coding](https://github.com/user-attachments/assets/41daa0da-3f70-47ef-83a7-08ea7cf9ce86)
 
-CODE LIKE POETRY. QUIET, CLEAN, DEEP. ✨💻🖋️
+                                 CODE LIKE POETRY. QUIET, CLEAN, DEEP. ✨💻🖋️
 
 👋 About Me
 
