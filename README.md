@@ -1,5 +1,5 @@
 # shreya-27
-        https://github.com/shreyaB7134
+     ![Image](https://github.com/user-attachments/assets/d759eea7-ca5d-45ae-affa-2b283687715b)
      
 
 👋 About Me
