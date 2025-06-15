@@ -14,12 +14,12 @@ Hi! I'm Shreya , a passionate and driven technologist with a love for building m
 🌐 Open Source & Learning: Growing through community, collaboration, and constant learning.
 
 💻 Tech Stack & Learning Journey
-I'm always exploring new tools while sharpening my core skills. Here’s a snapshot of my current tech landscape:
+            I'm always exploring new tools while sharpening my core skills. Here’s a snapshot of my current tech landscape:
 
 ⚙️ Core Technologies
 🧠 Programming Languages:
  >> C, Python, Java, HTML, CSS, JavaScript
-> 
+
 🛠️ Frameworks & Libraries:
 >> React, Bootstrap, Node.js
 
@@ -30,7 +30,8 @@ I'm always exploring new tools while sharpening my core skills. Here’s a snaps
 >> Git & GitHub, VS Code, Anaconda
 
 📚 Academic Foundation
-Strong grounding through coursework in:
+         Strong grounding through coursework in:
+		 
 * Data Structures
 * Object-Oriented Programming (OOP)
 * Database Management Systems (DBMS)
@@ -38,7 +39,8 @@ Strong grounding through coursework in:
 * Computer Networks
 
 🌱 Soft Skills & Mindset
-. I believe technology is powered just as much by people as it is by code. I bring:
+         I believe technology is powered just as much by people as it is by code. I bring:
+		 
 . Effective Communication
 . Team Collaboration
 . Adaptability
@@ -47,21 +49,19 @@ Strong grounding through coursework in:
 . A Strong Work Ethic
 
 🤝 Let's Collaborate!
-I'm always open to building something cool together! Hit me up for:
+           I'm always open to building something cool together! Hit me up for:
 
-🌟 Open Source contributions
+		🌟 Open Source contributions
+		
+		🛠️ Developer tooling & automation
+		
+		📚 Mentorships, study groups, or hackathons
 
-🛠️ Developer tooling & automation
+©️Let’s connect and create something amazing:
 
-📚 Mentorships, study groups, or hackathons
-
-Let’s connect and create something amazing:
-
-📧 Email: shreyaburra18@gmail.com 
-
-💼 Shreya-LinkedIn(https://www.linkedin.com/in/shreya-b-27521734a/)
-
-🧑‍💻 shreya /GitHub (https://github.com/shreyaB7134)
+		📧 Email: shreyaburra18@gmail.com 
+		💼 Shreya-LinkedIn(https://www.linkedin.com/in/shreya-b-27521734a/)
+		🧑‍💻 shreya /GitHub (https://github.com/shreyaB7134)
 
 
 
