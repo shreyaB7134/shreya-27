@@ -1,7 +1,6 @@
 # shreya-27
-
+        https://github.com/shreyaB7134
      
-  
 
 👋 About Me
 Hi! I'm Shreya , a passionate and driven technologist with a love for building meaningful, user-focused solutions. I thrive at the intersection of innovation, data, and community. My mission? To create tech that empowers and inspires.
@@ -46,15 +45,18 @@ Strong grounding through coursework in:
 
 🤝 Let's Collaborate!
 I'm always open to building something cool together! Hit me up for:
+
 🌟 Open Source contributions
+
 🛠️ Developer tooling & automation
+
 📚 Mentorships, study groups, or hackathons
 
 Let’s connect and create something amazing:
 
 📧 Email: shreyaburra18@gmail.com 
-💼 Shreya-LinkedIn(https://www.linkedin.com/in/shreya-b-27521734a/)
-🧑‍💻 shreya /GitHub (https://github.com/shreyaB7134)
+💼 Shreya-LinkedIn(https://www.linkedin.com/in/shreya-b-27521734a/).
+🧑‍💻 shreya /GitHub (https://github.com/shreyaB7134).
 
 
 
