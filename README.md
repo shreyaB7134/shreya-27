@@ -53,9 +53,10 @@ I'm always open to building something cool together! Hit me up for:
 📚 Mentorships, study groups, or hackathons
 
 Let’s connect and create something amazing:
-
 📧 Email: shreyaburra18@gmail.com 
+
 💼 Shreya-LinkedIn(https://www.linkedin.com/in/shreya-b-27521734a/).
+
 🧑‍💻 shreya /GitHub (https://github.com/shreyaB7134).
 
 
