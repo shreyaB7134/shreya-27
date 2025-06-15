@@ -39,8 +39,9 @@ Hi! I'm Shreya , a passionate and driven technologist with a love for building m
 * Computer Networks
 
 🌱 Soft Skills & Mindset
-         I believe technology is powered just as much by people as it is by code. I bring:
-		 
+
+ I believe technology is powered just as much by people as it is by code. I bring:	
+ 
 . Effective Communication
 . Team Collaboration
 . Adaptability
