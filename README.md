@@ -7,10 +7,11 @@
 
   <p>
     <a href="mailto:shreyaburra18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/shreya-b-27521734a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://www.codechef.com/users/shreyas133"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
     <a href="https://www.hackerrank.com/@shreyaburra18"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
     <a href="https://www.leetcode.com/__shreya09_"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+    <a href="https://shreyab7134.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
   </p>
 </div>
 
@@ -20,9 +21,9 @@
 
 I'm a curious, creative, and community-focused developer on a mission to build tech that matters.
 
-- 🔭 Currently enhancing my **full-stack development** skills
-- 💡 Always on the lookout to create solutions that **empower and inspire**
-- 📫 Reach me at: `shreyaburra18@gmail.com`
+- 🔭 Currently enhancing my **full-stack development** skills  
+- 💡 Always on the lookout to create solutions that **empower and inspire**  
+- 📫 Reach me at: `shreyaburra18@gmail.com`  
 - ⚡ Fun fact: _I have a love-hate relationship with semicolons; they know why._
 
 ---
@@ -73,11 +74,10 @@ I'm a curious, creative, and community-focused developer on a mission to build t
 
 ---
 
-
 ## 🏆 Achievements
 
-- 🥇 Winners of Webathon 2025 conducted by ACUMEN IT
-- 🌐 Contributed to open-source under SSoC '25
+- 🥇 Winners of Webathon 2025 conducted by ACUMEN IT  
+- 🌐 Contributed to open-source under SSoC '25  
 - 🎙️ Member of the **Toastmasters Club** — growing public speaking & leadership skills
 
 ---
@@ -103,9 +103,9 @@ Are you building something exciting or looking to start something impactful? Let
 
 ## ✨ Bonus: Who is Shreya?
 
-- 🎓 Technologist | Creator | Lifelong Learner
-- 📍 Based in India 🇮🇳
-- 🎶 Music fuels my focus, and my coding flow often starts with coffee ☕
+- 🎓 Technologist | Creator | Lifelong Learner  
+- 📍 Based in India 🇮🇳  
+- 🎶 Music fuels my focus, and my coding flow often starts with coffee ☕  
 - 🧩 I love puzzles, logic games, and solving UI/UX challenges with empathy.
 
 ---
